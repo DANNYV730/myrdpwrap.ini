@@ -1,0 +1,2 @@
+# myrdpwrap.ini
+RDP
